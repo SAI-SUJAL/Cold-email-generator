@@ -9,9 +9,12 @@ Scenario: Job Search for a Recent Graduate Background: Sai Sujan is a recent gra
 Objective: Sai Sujan wants to introduce himself to hiring managers at these companies to express his interest in potential job opportunities and to demonstrate his enthusiasm and qualifications.
 
 The Cold email tool helps in generating a direct email for the respective job description upon giving it as input, thus saving time and also aligning itself accordingly to the job role.
-![Screenshot (5)](https://github.com/user-attachments/assets/ee0005a2-ab5e-4b14-ac7b-653053ffb561)
 
-![image](https://github.com/user-attachments/assets/c14e6cfc-cec9-4918-82bd-d93316b6d17c)
+![Screenshot (5)](https://github.com/user-attachments/assets/d130f33c-2a16-4804-b338-b0515859018c)
+
+
+![image](https://github.com/user-attachments/assets/11bb4ab6-6aad-40e9-ac4e-04d7abb22c49)
+
 
 
 Set-up To get started we first need to get an API_KEY from here: https://console.groq.com/keys. Inside app/.env update the value of GROQ_API_KEY with the API_KEY you created.
